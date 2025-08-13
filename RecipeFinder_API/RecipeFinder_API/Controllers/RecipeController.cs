@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using RecipeFinder.API.Models;
+using RecipeFinder_API.Models;
 using RecipeFinder.API.Services;
 
-namespace RecipeFinder.API.Controllers
+namespace RecipeFinder_API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

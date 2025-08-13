@@ -1,4 +1,4 @@
-﻿using RecipeFinder.API.Models;
+﻿using RecipeFinder_API.Models;
 using System.Net.Http.Json;
 
 namespace RecipeFinder.API.Services

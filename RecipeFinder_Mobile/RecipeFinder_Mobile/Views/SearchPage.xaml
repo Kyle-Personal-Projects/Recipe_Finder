@@ -1,0 +1,31 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:RecipeFinder_Mobile.ViewModels"
+             x:Class="RecipeFinder_Mobile.Views.SearchPage">
+
+    <ContentPage.BindingContext>
+        <viewmodels:SearchViewModel />
+    </ContentPage.BindingContext>
+
+    <VerticalStackLayout Padding="20">
+        <Entry Placeholder="Enter ingredients (comma separated)"
+               Text="{Binding Ingredients}" />
+
+        <Button Text="Search" Command="{Binding SearchCommand}" />
+
+        <CollectionView ItemsSource="{Binding Recipes}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame BorderColor="Gray" CornerRadius="10" Padding="10" Margin="5">
+                        <VerticalStackLayout>
+                            <Image Source="{Binding Image}" HeightRequest="100" Aspect="AspectFill" />
+                            <Label Text="{Binding Title}" FontSize="Medium" />
+                            <Label Text="{Binding UsedIngredientCount, StringFormat='Used: {0}'}" FontSize="Small" />
+                            <Label Text="{Binding MissedIngredientCount, StringFormat='Missing: {0}'}" FontSize="Small" />
+                        </VerticalStackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </VerticalStackLayout>
+</ContentPage>

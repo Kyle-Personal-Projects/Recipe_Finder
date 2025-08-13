@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Personal Projects\\Recipe_Finder\\RecipeFinder_Mobile\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4416D2-C172-4704-BB18-9859A158FEE9}|RecipeFinder_Mobile\\RecipeFinder_Mobile.csproj|c:\\users\\user\\desktop\\personal projects\\recipe_finder\\recipefinder_mobile\\recipefinder_mobile\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4416D2-C172-4704-BB18-9859A158FEE9}|RecipeFinder_Mobile\\RecipeFinder_Mobile.csproj|solutionrelative:recipefinder_mobile\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4416D2-C172-4704-BB18-9859A158FEE9}|RecipeFinder_Mobile\\RecipeFinder_Mobile.csproj|c:\\users\\user\\desktop\\personal projects\\recipe_finder\\recipefinder_mobile\\recipefinder_mobile\\viewmodels\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4416D2-C172-4704-BB18-9859A158FEE9}|RecipeFinder_Mobile\\RecipeFinder_Mobile.csproj|solutionrelative:recipefinder_mobile\\viewmodels\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4416D2-C172-4704-BB18-9859A158FEE9}|RecipeFinder_Mobile\\RecipeFinder_Mobile.csproj|c:\\users\\user\\desktop\\personal projects\\recipe_finder\\recipefinder_mobile\\recipefinder_mobile\\views\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E4416D2-C172-4704-BB18-9859A158FEE9}|RecipeFinder_Mobile\\RecipeFinder_Mobile.csproj|solutionrelative:recipefinder_mobile\\views\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4416D2-C172-4704-BB18-9859A158FEE9}|RecipeFinder_Mobile\\RecipeFinder_Mobile.csproj|c:\\users\\user\\desktop\\personal projects\\recipe_finder\\recipefinder_mobile\\recipefinder_mobile\\views\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4416D2-C172-4704-BB18-9859A158FEE9}|RecipeFinder_Mobile\\RecipeFinder_Mobile.csproj|solutionrelative:recipefinder_mobile\\views\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4416D2-C172-4704-BB18-9859A158FEE9}|RecipeFinder_Mobile\\RecipeFinder_Mobile.csproj|c:\\users\\user\\desktop\\personal projects\\recipe_finder\\recipefinder_mobile\\recipefinder_mobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4416D2-C172-4704-BB18-9859A158FEE9}|RecipeFinder_Mobile\\RecipeFinder_Mobile.csproj|solutionrelative:recipefinder_mobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4416D2-C172-4704-BB18-9859A158FEE9}|RecipeFinder_Mobile\\RecipeFinder_Mobile.csproj|c:\\users\\user\\desktop\\personal projects\\recipe_finder\\recipefinder_mobile\\recipefinder_mobile\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4416D2-C172-4704-BB18-9859A158FEE9}|RecipeFinder_Mobile\\RecipeFinder_Mobile.csproj|solutionrelative:recipefinder_mobile\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Personal Projects\\Recipe_Finder\\RecipeFinder_Mobile\\RecipeFinder_Mobile\\App.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeFinder_Mobile\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Personal Projects\\Recipe_Finder\\RecipeFinder_Mobile\\RecipeFinder_Mobile\\App.xaml.cs",
+              "RelativeToolTip": "RecipeFinder_Mobile\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T19:17:11.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Personal Projects\\Recipe_Finder\\RecipeFinder_Mobile\\RecipeFinder_Mobile\\Views\\SearchPage.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeFinder_Mobile\\Views\\SearchPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Personal Projects\\Recipe_Finder\\RecipeFinder_Mobile\\RecipeFinder_Mobile\\Views\\SearchPage.xaml.cs",
+              "RelativeToolTip": "RecipeFinder_Mobile\\Views\\SearchPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T19:16:49.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Personal Projects\\Recipe_Finder\\RecipeFinder_Mobile\\RecipeFinder_Mobile\\Views\\SearchPage.xaml",
+              "RelativeDocumentMoniker": "RecipeFinder_Mobile\\Views\\SearchPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Personal Projects\\Recipe_Finder\\RecipeFinder_Mobile\\RecipeFinder_Mobile\\Views\\SearchPage.xaml",
+              "RelativeToolTip": "RecipeFinder_Mobile\\Views\\SearchPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-13T19:16:14.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Personal Projects\\Recipe_Finder\\RecipeFinder_Mobile\\RecipeFinder_Mobile\\ViewModels\\SearchViewModel.cs",
+              "RelativeDocumentMoniker": "RecipeFinder_Mobile\\ViewModels\\SearchViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Personal Projects\\Recipe_Finder\\RecipeFinder_Mobile\\RecipeFinder_Mobile\\ViewModels\\SearchViewModel.cs",
+              "RelativeToolTip": "RecipeFinder_Mobile\\ViewModels\\SearchViewModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAnwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T19:14:06.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipeService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Personal Projects\\Recipe_Finder\\RecipeFinder_Mobile\\RecipeFinder_Mobile\\Services\\RecipeService.cs",
+              "RelativeDocumentMoniker": "RecipeFinder_Mobile\\Services\\RecipeService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Personal Projects\\Recipe_Finder\\RecipeFinder_Mobile\\RecipeFinder_Mobile\\Services\\RecipeService.cs",
+              "RelativeToolTip": "RecipeFinder_Mobile\\Services\\RecipeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T19:11:03.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Personal Projects\\Recipe_Finder\\RecipeFinder_Mobile\\RecipeFinder_Mobile\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "RecipeFinder_Mobile\\Models\\Recipe.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Personal Projects\\Recipe_Finder\\RecipeFinder_Mobile\\RecipeFinder_Mobile\\Models\\Recipe.cs",
+              "RelativeToolTip": "RecipeFinder_Mobile\\Models\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:56:36.376Z",
+              "EditorCaption": ""
             }
           ]
         }
